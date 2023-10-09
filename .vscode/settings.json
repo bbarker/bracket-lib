@@ -6,5 +6,9 @@
         "markdown",
         "latex",
         "plaintext"
+    ],
+    "rust-analyzer.linkedProjects": [
+        "./bracket-terminal/Cargo.toml",
+        "./bracket-terminal/Cargo.toml"
     ]
 }
